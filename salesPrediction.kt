@@ -1,10 +1,6 @@
-int main()
-{
-	double PoTS 		= .62,
-		   CompSales 	= 4600000;
-	int    EastCoastSales		= CompSales * PoTS;
-
-	cout << "The East Coast division is predicted to generate $";
-	cout << EastCoastSales << " in sales." << endl; 
-	return 0;
+fun main() {
+    val totalSales = 4_600_000
+    val eastCoastPercentage = 0.62
+    val eastCoastSales = totalSales * eastCoastPercentage
+    println("The East Coast sales division will generate $$eastCoastSales this year.")
 }
