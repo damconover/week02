@@ -1,11 +1,8 @@
-{
-  system.out.println("   *");
-  system.out.println("  ***");
-  system.out.println(" *****");
-  system.out.println("*******");
-  system.out.println(" *****");
-  system.out.println("  ***");
-  system.out.println("   *");
-}
-
-}
+fun main()  {  
+    println("   *")
+     println("  ***")
+      println(" *****")
+       println("*******")
+        println(" *****") 
+         println("  ***")
+          println("   *")
